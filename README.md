@@ -3,8 +3,8 @@
 <h1 id="title">ReadMe file for "A Unique Book Search Engine"</h1><img src = "https://badgen.net/badge/license/MIT">
 <h3>By User davehyler</h3>
 <!-- Optional Screenshot will show if user places one within the same directory as this readme. -->
-<p><img src = "screenshot.png"></p> 
-https://uniquenotetaker.onrender.com/
+<p>
+https://a-unique-book-search-engine.onrender.com/
 <nav>
 <h2>Table Of Contents</h2>
 <ol>
@@ -27,11 +27,11 @@ https://uniquenotetaker.onrender.com/
 <h3 id="license">License: MIT</h3>
 <p>Badge: <img src = "https://badgen.net/badge/license/MIT"></p>
 <h3 id="description">Description of project:</h3>
-<p>A simple note taking application based in Express.</p>
+<p>A unique Book Search Engine using MongoDB's Atlas</p>
 <h3 id="instructions">Installation Instructions:</h3>
 <p>Make sure to install any dependancies (see package.json in same directory) prior to attempting to run, then within your terminal running within the directory of "server.js", type the command "node server.js" to begin and follow the prompts.</p>
 <h3 id="usage">How to use:</h3>
-<p>To use online without installation, please follow this link to RENDER: https://uniquenotetaker.onrender.com/.</p>
+<p>To use online without installation, please follow this link to RENDER: https://a-unique-book-search-engine.onrender.com/.</p>
 <h3 id="guidelines">Guidelines for Contribution:</h3>
 <p>Make sure all submissions are compatible with the current codebase.</p>
 <h3 id="testing">Tests</h3>
