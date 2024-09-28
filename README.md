@@ -4,7 +4,7 @@
 <h3>By User davehyler</h3>
 <!-- Optional Screenshot will show if user places one within the same directory as this readme. -->
 <p>
-https://a-unique-book-search-engine.onrender.com/
+https://unique-book-search-engine.onrender.com/
 <nav>
 <h2>Table Of Contents</h2>
 <ol>
@@ -27,7 +27,7 @@ https://a-unique-book-search-engine.onrender.com/
 <h3 id="license">License: MIT</h3>
 <p>Badge: <img src = "https://badgen.net/badge/license/MIT"></p>
 <h3 id="description">Description of project:</h3>
-<p>A unique Book Search Engine using MongoDB's Atlas</p>
+<p>A unique Book Search Engine</p>
 <h3 id="instructions">Installation Instructions:</h3>
 <p>Make sure to install any dependancies (see package.json in same directory) prior to attempting to run, then within your terminal running within the directory of "server.js", type the command "node server.js" to begin and follow the prompts.</p>
 <h3 id="usage">How to use:</h3>
