@@ -18,7 +18,6 @@ As an Master's of Education, I focus less on whether "it works" or "it doesn't w
 <li><a href="#license">License</a></li>
 <li><a href="#description">Description</a></li>
 <li><a href="#instructions">Installation Instructions</a></li>
-<li><a href="#usage">Usage</a></li>
 <li><a href="#guidelines">Guidelines</a></li>
 <li><a href="#testing">Testing</a></li>
 </ol>
@@ -32,9 +31,12 @@ As an Master's of Education, I focus less on whether "it works" or "it doesn't w
 <h3 id="description">Description of project:</h3>
 <p>A unique Book Search Engine</p>
 <h3 id="instructions">Installation Instructions:</h3>
-<p>Make sure to install any dependancies (see package.json in same directory) prior to attempting to run, then within your terminal running within the directory of "server.js", type the command "node server.js" to begin and follow the prompts.</p>
-<h3 id="usage">How to use:</h3>
-<p>To use online without installation, please follow this link to RENDER: https://a-unique-book-search-engine.onrender.com/.</p>
+1. Do not use Render until documentation has been provided that will deploy this WORKING application in the same way it runs locally. (It certainly exists, but "Deployment Guide For Render" is not it and I don't think we received a follow up to that document)
+2. Clone the repository
+3. From the root directory, type "npm run install" and press enter.
+4. From the root directory, type "npm run render" and press enter.
+5. The application will both load and automatically popup
+6. These are how step by step directions work. For the opposite of this clear and concise procedure, please refer to "Deployment Guide For Render" (which also has two incorrect statements/pictures that appear to be from a severely outdated version of their website: See "Build and Deployment" section)
 <h3 id="guidelines">Guidelines for Contribution:</h3>
 <p>Make sure all submissions are compatible with the current codebase.</p>
 <h3 id="testing">Tests</h3>
