@@ -3,7 +3,7 @@
 <h1 id="title">ReadMe file for "A Unique Book Search Engine"</h1><img src = "https://badgen.net/badge/license/MIT">
 <h3>By User davehyler</h3>
 <!-- Optional Screenshot will show if user places one within the same directory as this readme. -->
-<img src = "screenshot.png">
+<p><img src = "screenshot.png"></p> 
 <p>
 https://unique-book-search-engine.onrender.com/
 Have changed every setting on Render (including to the exact "Deployment Guide" we were given). The only feedback needed is not HOW to fix it, but where specifically in student instructional documentation we were given explicit directions to however it SHOULD have been deployed since the "Deployment Guide" values for Render either do not work. Have used the starter code link, have used localhost, have even tried to deploy on atlas (not that it matters as it seems all meaningful data is coming directly from the API and we have not "created a database" any different/unique from anyone else doing this assignment. Will not be continuing work on Render without explicit instructions on what needs to be done for deployment PRIOR to starting/revisiting an assignment as it always seems to require something different from the deployment guide (as this entire program now works perfectly fine on localhost now that the missing files were uploaded, therefor the only difference is a NECESSITY for Render Deployment that I don't seem to see anywhere within the deployment guide or our student materials. Please send a direct link or identifier to the page if incorrect.
